@@ -1,6 +1,6 @@
 .PHONY: clean
 
-CFLAGS=-Wall -g
+CFLAGS=-Wall -g 
 
 driver: driver.o rbtree.o
 
